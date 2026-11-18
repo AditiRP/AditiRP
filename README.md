@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm based in Chennai, Tamil Nadu<br><br>- Skilled software developer with a strong command in C/C++, Java and Python.<br>- Currently pursuing bachelors in Computer Science and Engineering.<br>- 2X AWS Certified.<br>- Passionate about designing interfaces for seamless user experience.</p>
+<p align="left">I'm based in Bengaluru <br><br>- Skilled software developer with a strong command in C/C++, Java and Python.<br>- Currently pursuing bachelors in Computer Science and Engineering.<br>- 2X AWS Certified.<br>- Passionate about designing interfaces for seamless user experience.</p>
 
 ###
 
